@@ -1,4 +1,4 @@
-# real-world-vue-2
+# EventsApp
 
 ## Project setup
 ```
